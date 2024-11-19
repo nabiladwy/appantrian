@@ -49,6 +49,7 @@
         th, td {
             padding: 14px;
             text-align: center;
+            coba
         }
 
         th {
